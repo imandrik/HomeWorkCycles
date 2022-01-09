@@ -22,6 +22,4 @@ public class SQRServiceTest {
         assertEquals(expected, actual);
     }
 
-
-
 }
